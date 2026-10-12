@@ -1,12 +1,12 @@
 {
   "apk": {
-    "name": "lottoforecast-android-v0.1.3.apk",
-    "sha256": "3eaf2bbb26b130faf598abb672ba7bda1f9a8bfe70c30daabc6975eee99a992b",
-    "size": 20500672,
-    "url": "https://github.com/nlkcodenew/lottoforecast-android-release/releases/download/v0.1.3/lottoforecast-android-v0.1.3.apk"
+    "name": "lottoforecast-android-v0.2.0.apk",
+    "sha256": "a3813e08ab6c06afaae530b2b0f00cf3e48f008e1e4a954c14e85e8bdec8f33d",
+    "size": 20566208,
+    "url": "https://github.com/nlkcodenew/lottoforecast-android-release/releases/download/v0.2.0/lottoforecast-android-v0.2.0.apk"
   },
   "kid": "a1",
-  "signature": "RaPQj0UPi098Jwq8d9C8WqQ9PFJkjAkauSrGjqj_BtHvZVRVU_oj1lLZnikyl3bPJOx5tq_Pq44bMENuaTKSCg",
-  "version": "0.1.3",
-  "version_code": 4
+  "signature": "28vVW7M86utC6SbM3WMvpbM1Quf2JmZpk-THfB7VMjyYqIqQl4NyoY3zX-1_3Tr_jjbEm2H_SxBWsnjymkcXBg",
+  "version": "0.2.0",
+  "version_code": 5
 }
